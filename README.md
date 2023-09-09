@@ -1,7 +1,7 @@
 <h1 align="center"> Habits </h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+Programa para ajudar você no dia-a-dia a não esquecer os compromissos . <br/>
 </p>
 
 <p align="center">
